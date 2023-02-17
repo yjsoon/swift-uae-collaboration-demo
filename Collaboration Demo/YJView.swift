@@ -9,7 +9,14 @@ import SwiftUI
 
 struct YJView: View {
     var body: some View {
-        Text("This is YJ's page")
+        ZStack {
+            LinearGradient(
+                colors: [.red, .green, .blue],
+                startPoint: .topLeading,
+                endPoint: .bottomTrailing)
+            .edgesIgnoringSafeArea(.all)
+            Text("This is YJ's page")
+        }
     }
 }
 
