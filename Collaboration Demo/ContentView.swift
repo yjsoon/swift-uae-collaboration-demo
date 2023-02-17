@@ -22,6 +22,10 @@ struct ContentView: View {
                 .tabItem {
                     Label("Anand", systemImage: "triangle")
                 }
+            MoezView()
+                .tabItem {
+                    Label("MR", systemImage: "square")
+                }
         }
     }
 }

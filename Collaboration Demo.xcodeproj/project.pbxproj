@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4884C50C299F55A700D5C592 /* MoezView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4884C50B299F55A700D5C592 /* MoezView.swift */; };
 		AF42B8BD299F513F0023AB21 /* Collaboration_DemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF42B8BC299F513F0023AB21 /* Collaboration_DemoApp.swift */; };
 		AF42B8BF299F513F0023AB21 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF42B8BE299F513F0023AB21 /* ContentView.swift */; };
 		AF42B8C1299F51400023AB21 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF42B8C0299F51400023AB21 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4884C50B299F55A700D5C592 /* MoezView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoezView.swift; sourceTree = "<group>"; };
 		AF42B8B9299F513F0023AB21 /* Collaboration Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Collaboration Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF42B8BC299F513F0023AB21 /* Collaboration_DemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Collaboration_DemoApp.swift; sourceTree = "<group>"; };
 		AF42B8BE299F513F0023AB21 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 		AF42B8BB299F513F0023AB21 /* Collaboration Demo */ = {
 			isa = PBXGroup;
 			children = (
+				4884C50B299F55A700D5C592 /* MoezView.swift */,
 				AF42B8BC299F513F0023AB21 /* Collaboration_DemoApp.swift */,
 				AF42B8BE299F513F0023AB21 /* ContentView.swift */,
 				AF42B8CA299F52370023AB21 /* YJView.swift */,
@@ -143,6 +146,7 @@
 				AF42B8BF299F513F0023AB21 /* ContentView.swift in Sources */,
 				AF42B8CB299F52370023AB21 /* YJView.swift in Sources */,
 				AF42B8BD299F513F0023AB21 /* Collaboration_DemoApp.swift in Sources */,
+				4884C50C299F55A700D5C592 /* MoezView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
