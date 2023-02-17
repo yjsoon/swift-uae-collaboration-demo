@@ -18,9 +18,9 @@ struct ContentView: View {
                 .tabItem {
                     Label("Mano", systemImage: "square.grid.2x2")
                 }
-            Text("Ethan")
+            Text("Anand")
                 .tabItem {
-                    Label("Ethan", systemImage: "triangle")
+                    Label("Anand", systemImage: "triangle")
                 }
         }
     }
